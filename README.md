@@ -17,4 +17,4 @@ Dynamic Employee Table is a web-based application that allows for managing emplo
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Dynamic-Employee-Table.git
+   git clone https://github.com/PraveenKumar-tech/Dynamic-Employee-Table.git
