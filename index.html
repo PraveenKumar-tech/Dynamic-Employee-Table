@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dynamic Employee Table</title>
+    <link rel="stylesheet" href="../Dynamic-Employee-Table/style.css" />
+  </head>
+  <body>
+    <h1>Employee Table</h1>
+    <div id="tables-container">
+      <table>
+        <thead>
+          <tr>
+            <th>S.No</th>
+            <th>Employee Name</th>
+            <th>Salary</th>
+            <th>Employee ID</th>
+          </tr>
+        </thead>
+        <tbody id="table-body">
+          <!-- Rows will be dynamically populated -->
+        </tbody>
+      </table>
+    </div>
+    <button onclick="createNewTable()">Create New Table</button>
+
+    <script src="../Dynamic-Employee-Table/script.js"></script>
+  </body>
+</html>
